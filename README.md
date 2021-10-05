@@ -1,3 +1,4 @@
 # hello-world
 This is my first repository, it will be used for storing documentation, tricks and ideas
-I am adding text to the read me file for my first branch from main
+I am adding text to the read me file for my first branch from main.
+This is my second Branch - NM
